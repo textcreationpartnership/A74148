@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ground of desperation is out of the light, for Cain when he despaired, went from the light, that killed the just; he that killed the just within, killed the just without: and Esau who despised his birth-right, who was a profane person, did seek to kill the just; and he that rose up against the beloved of God, David, who despaired, there he rose up against the just: and the Jewes did despaire, and doubted, they did not believe in the light, and were against the just, ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74148</idno>
+            <idno type="STC">Thomason 669.f.20[23]</idno>
+            <idno type="EEBO-CITATION">99870471</idno>
+            <idno type="PROQUEST">99870471</idno>
+            <idno type="VID">163440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163440)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ground of desperation is out of the light, for Cain when he despaired, went from the light, that killed the just; he that killed the just within, killed the just without: and Esau who despised his birth-right, who was a profane person, did seek to kill the just; and he that rose up against the beloved of God, David, who despaired, there he rose up against the just: and the Jewes did despaire, and doubted, they did not believe in the light, and were against the just, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>Thomason received his copy on January 13 1655.</note>
+                  <note>Annotation on Thomason copy: "January 13 1655"; "Jan. 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163440:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <p>
+               <seg rend="decorInit">T</seg>HE ground of deſperation is our of the light, for <hi>Cain</hi> when he deſpaired, <note place="margin">Gen. 4.8.</note> went from the light, that killed the juſt; he that killed the juſt within, killed the juſt without: And <hi>Eſan</hi> who deſpiſed his birth-right, who was a profane perſon, did ſeek to kill the juſt; <note place="margin">Gen, 27.4<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and he that roſe up againſt the beloved of God, <hi>David,</hi> who deſpaired, <note place="margin">2 Sim. 28.15. &amp; 31.4.</note> there he roſe up againſt the juſt: And the <hi>Jewes</hi> did deſpaire, and doubted, they did not believe in the light, and were againſt the juſt, though they profeſſed all the Scriptures; <note place="margin">Mat 27.5.</note> and <hi>Judds</hi> which deſpaired, turned from Chriſt the light, to the changeable Prieſts; ſo the cauſe of deſperation is going from the light, for that which will preſume will deſpaire, which riſeth up in that nature which acts contrary to the light, and that is it which wanders too and fro, up and down, and hunts abroad, <note place="margin">Gen 25 <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> and builds that which God confounds. <hi>I am the light of the world, and doth enlighten every one that comes into the world,</hi> ſaith Chriſt, he by whom the world was made: Now every one being enlightned with the light that comes from him who is not of the world, who was tempted in the world to make himſelf away, who was tempted to luſt after the Creatures, <note place="margin">Luke 4.9. &amp; <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 8.</note> who was tempted to worſhip the Devil who is out of the truth, but overcame all: Now every one of you that come into the world, having a light from him that is not of this world, that was thus tempted, who entred not into the temptation; it is not a ſin to be tempted, for he was tempted, but to enter into the temptation: So if you ſee temptations with the light that comes from Chriſt, the light, the truth, and the life; look at him who was tempred, <note place="margin">Heb, 4.15.</note> who overcame the temptations, who was not of the world; having a light from him whoſe name is called <hi>The Word of God,</hi> who ſaith, <hi>If thou keep my word,</hi> 
+               <note place="margin">Revel. 3.10.</note> 
+               <hi>I will keep thee in the hour of temptation which ſhall come upon all the world, and it ſhall not come neer thee, which ſhall come to try all that dwell upon the earth:</hi> For having a light from the Word by which all things was made, &amp; keeping the Word, <note place="margin">Revel. 3.8.</note> the power is received againſt all temptations, and they ſhall not come nigh. Art thou tempted to make away thy ſelf? <note place="margin">Luke 4.3.</note> ſo was Chriſt. Look not at the temptations, but look at Chriſt, and there thou wilt receive power. Art thou tempted to the Creatures; doth the Devil, he that is out of the truth, who is a deſtroyer, <note place="margin">Luke 4.7.</note> tempt thee to the Creatures? ſo was Chriſt, he by whom all things was made. <note place="margin">Heb. 2.10.</note> Art thou tempted to worſhip the Devil? Doth the Devil who is out of the truth tempt thee to worſhip him? Look to Chriſt, <note place="margin">John 14.6.</note> he was tempted, who overcame: Look to him who overcame, he is the Captain of our ſalvation: So every one having a light from Chriſt Jeſus, which is given to him to watch, and to pray, and to ſeek, and to knock after Chriſt, who is the door, the way, the life, the Covenant of peace: So look not at the temp<g ref="char:EOLhyphen"/>tation, but at Chriſt, neither be troubled at them; but look to him from whom your ſtrength come, that lets you ſee them, and there ſtand ſtill, for there ſalvation is received, and your ſtrength. <note place="margin">Iſa. 45.2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Have you made a Covenant with death, who contrary to the light in your conſciences, have acted? <note place="margin">Iſa. 28.10, 17, 18.</note> Have you made Covenants with Hell, and the Grave, and Satan, which is our of the light, our of the truth; <note place="margin">Iſa. 42.6.</note> and that is the Devil that is out of the truth, the deſtroyer, the devourer. <note place="margin">Iſa 49.9.</note> Therefore being turned to the light which comes from Chriſt, the Covenant of God, Gods Covenant of light, there waiting, the Co<g ref="char:EOLhyphen"/>venant of death is broken, and in it believe, for there Gods mercy is received, againſt which Covenant Hells gates cannot prevaile, let her open her mouth never ſo wide; and all the bonds of iniquity, pro<g ref="char:EOLhyphen"/>miſes which you have made with the fleſhly mind, and the luſts being turned to the light, the Covenant of life breaks all the bonds and the promiſes of the fleſhly mind: Therefore in patience wait in the light which comes from Chriſt, the Covenant of peace which yee may receive, to have peace with God; <note place="margin">Lam. 3.26.</note> and never look at the temptations, but at the light which ſhewes them, and there ſtand ſtill to receive power from him from whom all power is received; for that which is out of the truth, that tempts to draw from the light, and from the truth, and out of it; therefore every one having the light from Chriſt, who is not of the world, which is come into the world, that will let you ſee the temptations. <note place="margin">John 17.18.</note> 
+               <hi>Thou that keeps my word, they ſhall not come nigh thee, but power ſhall be received to trample upon all.</hi>
+               <note place="margin">Revel 5.10.</note> And the worſhip in the Spirit and truth will be known, <note place="margin">John 8.14.</note> and the wiſedome by which all the Creatures were cre<g ref="char:EOLhyphen"/>ated, will be received, with it to uſe them to the glory of God, to which end they were created; <note place="margin">Mat. 14. 29.</note> and that which is out of the truth, which tempts to murther, for that is the murtherer which is out of the truth, and out of the light will with the light be ſeen, judged, and condemned; but before he will lift up, and exalt, and the ſame will bring to deſpaire: But learne of Chriſt the light, who is meek and lowly, and he is kept out and downe who is out of the light: But before this he will tempt into the creatures, to get into the creatures, he who is from the light, and from the life, and ſo a devourer of them, and ſo out of the wiſdome by which they were created; therefore as I ſaid before, wait in the light which comes from Chriſt the life, that with it ye may come to receive refreſhing from the Lord, and to know the wiſedome of the Creation, with which it muſt be uſed to the glory of the Creator. So having a light from him by whom the world was made, to whom all power in heaven and earth is gi<g ref="char:EOLhyphen"/>ven; wait in the light, from him to receive power, which brings out of the worlds luſts and defile<g ref="char:EOLhyphen"/>ments, which the light which cometh from him will ſhew you all the temptations to the creatures, <note place="margin">John 9. 51.</note> or obeying the will of him that is out of the truth, but you will come to know the right uſe of the crea<g ref="char:EOLhyphen"/>tures, waiting in the light; ſo wait for power from the Lord in the light (which ſhewes you all temp<g ref="char:EOLhyphen"/>tations) which comes from the Lord, for power to ſtand againſt all temptations; and ſo that all may be condemned with the light, that is contrary to it; <note place="margin">Mat. 13.33.</note> and ſo you may come to witneſſe the leaven that leavens into the new lump, and ſee him that makes interceſſion, who is able to ſave to the utmoſt; <note place="margin">Heb, 7.25.</note> and ſo with the light you will ſee there is no temptation you are taken with, but which is common to man. <note place="margin">1 Cor. 10.13.</note> So if you mind the light, and in it ſtand, you will ſee the Lord giving iſſue, whereby you will find delive<g ref="char:EOLhyphen"/>rance ſtanding in the light, which comes from the word, which is as a fire, &amp; a hammer, and a ſword, <note place="margin">Jer. 23.29.</note> which beats down that which is contrary to the truth, divides and burns up, which keeping the word the temptations will not come nigh, but the word of reconciliation be witneſſed, and the word of fai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes clean and purifies, <note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 5.19.</note> and ſancti<g ref="char:EOLhyphen"/>fies: Where the old Garment is put off, and the knowledge in the fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh denyed, and the knowing in the life in the Spi<g ref="char:EOLhyphen"/>rit where nothing comes to raigne but life and power, where all is overturned, and with the power of the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>hended the dread and life of the living God, to whom be all honour and glory for ever.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
